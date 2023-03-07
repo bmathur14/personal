@@ -60,3 +60,4 @@ float deriv(float a[], int deg, float x)
 
     return pd;
 }
+14:25 7 MAR 2023
