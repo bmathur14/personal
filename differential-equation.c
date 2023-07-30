@@ -5,7 +5,7 @@
 float poly(float a[], int, float);
 float deriv(float a[], int, float);
 
-int main()
+int m
 {
     float x, a[10], y1, dy1;
     int deg, i;
